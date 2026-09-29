@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Personal Finance Advisor Bot logo</title>
+  <desc id="desc">A teal shield with a green upward trend mark on a deep navy background.</desc>
+  <rect width="256" height="256" fill="#102A43"/>
+  <path d="M128 43 188 66v52c0 46-26 76-60 94-34-18-60-48-60-94V66l60-23Z" fill="#0F766E"/>
+  <path d="m91 128 24 24 54-58" fill="none" stroke="#34D399" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
